@@ -5,7 +5,7 @@ This repository contains an internship project focused on preparing and analyzin
 ---
 
 ## 📁 Folder Structure
-PRODIGY_DS_02
+PRODIGY_DS_02                                                                                                                                                                                                 
 ├── data/ # Raw and cleaned datasets used for analysis                                                                                                                                                              
 ├── image/ # Exported charts and plots from the analysis                                                                                                                                                           
 ├── notebook/ # Jupyter notebook containing full analysis and code                                                                                                                                             
